@@ -1,0 +1,63 @@
+
+.outerDiv{
+    height: 100%;
+    width: 100%;
+}
+
+.midDiv{
+    background-image: url('https://images.pexels.com/photos/4825701/pexels-photo-4825701.jpeg?auto=compress&cs=tinysrgb&w=600');
+    height: 400px;
+    color: #efeded;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 40px;
+    text-overflow: wrap;
+
+}
+.midDiv h2{
+    margin-top: 8%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4em;
+    text-transform: uppercase ;
+}
+.maindivProduct{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    height: 450px;
+    padding: 30px;
+    flex-direction: row;
+    gap: 50px;
+    }
+
+.ProductCards{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    width: 30%;
+    height: 350px;
+    text-align: center;
+    border: 2px solid black;
+    gap: 50px;
+    margin-top: 2%;
+    background: transparent;
+    padding: 5px;
+   }
+
+.imageBox{
+    height: 70%;
+    width: 100%;
+    background-color:red;
+
+   }
+.imageBox img{
+    width: 100%;
+    height: 100%;
+    
+   }
+
+.productInfobox{
+    border: 2px solid black;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    padding: 3px;
+    
+}
