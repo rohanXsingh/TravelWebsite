@@ -1,5 +1,5 @@
 # TravelWebsite
-A website that guide you for the palces that you must visit. This websits includes two more sections one is the Services which tells you the places where you can go. Other section is the Product section where you can find the products that are essential to travel. 
+A website that guide you for the places that you must visit. This website includes two more sections one is the Services which tells you the places where you can go. Other section is the Product section where you can find the products that are essential to travel.
 
 # Languages: 
   HTML, CSS, ReactJs JavaScript.
